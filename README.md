@@ -1,2 +1,5 @@
 # demo_git
-Une demo public
+===============
+
+Une demo de git qui se passe bien.
+
